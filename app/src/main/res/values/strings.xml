@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kirana Pa Sa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_user">Hello User</string>
+    <string name="todo">TODO</string>
+    <string name="update_details">Update Details</string>
+    <string name="welcome_to_the_user_panel">Welcome to the User Panel</string>
+    <string name="todo2">TODO</string>
+</resources>

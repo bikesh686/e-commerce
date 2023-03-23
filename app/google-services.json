@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050826235799",
+    "project_id": "kirana-pa-sa",
+    "storage_bucket": "kirana-pa-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050826235799:android:1ac330eac28ffe311f6ed2",
+        "android_client_info": {
+          "package_name": "com.example.kiranapasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050826235799-eruav8tduc6cr3ud1edms09p4glbe3tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZW-PVI0sIqbTYD9J5LWX7XiJryt6scN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050826235799-eruav8tduc6cr3ud1edms09p4glbe3tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
